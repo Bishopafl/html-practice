@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My blog</title>
+        <link rel="stylesheet" type="text/css" href="blog.css">
+            <meta charset="utf-8">
+                </head>
+    <body>
+        <header>
+            my awesome blog.
+        </header>
+        <nav>
+            <a href="about_me.html">About me </a>
+        </nav>
+        <img src="ohana.jpg" alt = "Ohana"
+        style="width:1500px;height:1500 px;" />
+        <article>
+            <h1>Hello world</h1>
+            <p>by @BishopAFL</p>
+            <p><em>This</em> is my <strong>first</strong> blog post</p>
+            <p>I love toast, coffee and rice and beans.</p>
+            <p>A staple where I come from</p>
+            <table1>
+                <thead>
+                    <tr><th>Favorite Movies throughout time</tr></th>
+                </thead>
+                <tbody>
+                    <tr><td>The Godfather</td> <td>The Lion King</td> <td>Star Wars collection</td> <td>Anchorman</td> <td>Mr. Deeds</td></tr>
+                        </tbody>
+            </table1>
+        </article>
+        <table2>
+            <thead>
+                <b><tr><th>Place Worked</th> <th>Length of time worked there</th></tr></b>
+            </thead>
+            <tbody>
+                <tr><td>McDonalds</td>  <td>2 years</td></tr>
+                <tr><td>Publix</td>  <td>10 years</td></tr>
+            </tbody>
+        </table2>
+        <footer>
+            <ul>
+                <li><a href="http://twitter.com.ironhack">Twitter</a></li>
+                <li><a href="http://facebook.com/theironhack">Facebook</a></li>
+            </ul>
+            <p>Copyleft Ironhack 2015 :D </p>
+        </footer>
+    </body>
+</html>
